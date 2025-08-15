@@ -1,0 +1,22 @@
+{
+  "name": "smarthome",
+  "version": "1.0.0",
+  "private": true,
+  "license": "ISC",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@vercel/analytics": "^1.5.0",
+    "gray-matter": "^4.0.3",
+    "next": "14.2.13",
+    "next-mdx-remote": "^5.0.0",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "rehype-raw": "^7.0.0",
+    "remark-gfm": "^4.0.1",
+    "styled-jsx": "^5.1.6"
+  }
+}
